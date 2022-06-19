@@ -2,4 +2,4 @@
 
 MS Visual Studio Project
 
-Designed to run from Debug as stand alone executable from any folder location
+Can also be run from bin\Debug as stand alone executable from any folder location
